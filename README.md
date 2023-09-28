@@ -6,7 +6,7 @@
 - Codeforces：https://codeforces.com/profile/Houyunfei
 - Acwing:https://www.acwing.com/user/myspace/index/129659/
 - CSDN:https://blog.csdn.net/m0_74085417?spm=1000.2115.3001.5343
-- Blog:https://yunfeidog.github.io/
+- Blog:https://yunfeidog.github.io/blogv2/
 - LeetCode:https://leetcode.cn/u/wonderful-snyder1j4/
 <!---
 yunfeidog/yunfeidog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
