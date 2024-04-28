@@ -15,7 +15,7 @@
 
 ![YunFei's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunfeidog)
 
-![snake](./dist/github-contribution-grid-snake-dark.svg)
+![snake](./dist/github-contribution-grid-snake.svg)
 
 #  🙋 Hello
 
