@@ -36,6 +36,20 @@
 
 <tr><td>
 
+### 🏢 Work Experience
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yunfeidog/yunfeidog/assets/images/yuanze.png" />
+
+- [苏州东方智旅信息科技有限公司](http://www.leyoobao.com/) &emsp; 📌 2024-01-01 —— Now
+
+    - 工作岗位：全栈开发工程师
+    - 工作内容：负责公司产品的前后端开发工作，主要为微信小程序：风景在线、以及后台管理系统的开发与维护工作
+
+
+</td></tr>
+
+<tr><td>
+
 ### 👩‍💻 Recent Coding
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C031%20hrs%201%20min-blue)
@@ -114,36 +128,9 @@ C++                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </td></tr>
-<tr><td>
-
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yunfeidog/yunfeidog/assets/images/yuanze.png" />
-
-- [苏州东方智旅信息科技有限公司](http://www.leyoobao.com/) &emsp; 📌 2024-01-01 —— Now
-
-    - 工作岗位：全栈开发工程师
-    - 工作内容：负责公司产品的前后端开发工作，主要为微信小程序：风景在线、以及后台管理系统的开发与维护工作
 
 
-</td></tr>
 
-<tr><td>
-
-### 📃 My Blog
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yunfeidog/yunfeidog/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-* 博客地址：<a href='http://yunfei.plus/' target='_blank'>http://yunfei.plus/</a>
-* 主要内容：Java后端开发知识、前端开发知识、算法与数据结构、项目实战、以及一些开发技巧。
-* Codeforces：https://codeforces.com/profile/Houyunfei
-* Acwing：https://www.acwing.com/user/myspace/index/129659/
-* CSDN：https://blog.csdn.net/m0_74085417?spm=1000.2115.3001.5343
-* LeetCode：https://leetcode.cn/u/wonderful-snyder1j4/
-<!-- END_SECTION:blog -->
-
-</td></tr>
 
 <tr><td>
 
