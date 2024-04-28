@@ -13,7 +13,7 @@
     <a href="https://wakatime.com/@yunfeidog"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
   </div>
 
-
+![YunFei's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunfeidog)
 
 
 #  🙋 Hello
@@ -126,6 +126,8 @@ C++                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 28/04/2024 00:42:10 UTC
 <!--END_SECTION:waka-->
+
+![Yunfei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunfeidog)
 
 </td></tr>
 
