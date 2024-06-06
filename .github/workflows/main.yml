@@ -16,3 +16,15 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # 是否显示项目名称，默认显示
           SHOW_PROJECTS: "False"
+          BLOCKS: "⬜🟨🟩"
+          ### content
+          SHOW_TITLE: true # optional
+          TIME_RANGE: all_time # optional
+          LANG_COUNT: 5 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: YAML JSON TOML # optional
+
+
