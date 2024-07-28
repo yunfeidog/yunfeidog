@@ -99,8 +99,6 @@ Mac                      61 hrs 32 mins      ███████████�
  Last Updated on 28/07/2024 00:54:51 UTC
 <!--END_SECTION:waka-->
 
-![Yunfei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunfeidog)
-
 </td></tr>
 
 
