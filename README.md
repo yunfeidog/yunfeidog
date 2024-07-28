@@ -41,7 +41,12 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yunfeidog/yunfeidog/assets/images/yuanze.png" />
 
-- [苏州东方智旅信息科技有限公司](http://www.leyoobao.com/) &emsp; 📌 2024-01-01 —— Now
+- [中科苏州智能计算技术研究院](http://iict.ac.cn/sy) &emsp; 📌 2024-06-13 —— 至今
+
+  - 工作岗位：后端开发工程师
+  - 工作内容：负责公司产品的后端开发工作，主要对公司的项目重构为微服务架构，以及后台管理系统的开发与维护工作
+
+- [苏州东方智旅信息科技有限公司](http://www.leyoobao.com/) &emsp; 📌 2024-01-01 —— 2024-06-01
 
     - 工作岗位：全栈开发工程师
     - 工作内容：负责公司产品的前后端开发工作，主要为微信小程序：风景在线、以及后台管理系统的开发与维护工作
