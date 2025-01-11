@@ -17,7 +17,6 @@
 
 ![snake](./dist/github-contribution-grid-snake.svg)
 
-# 🙋 Hello
 
 <table>
 
