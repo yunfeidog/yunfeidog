@@ -17,23 +17,9 @@
 
 ![snake](./dist/github-contribution-grid-snake.svg)
 
-#  🙋 Hello
+# 🙋 Hello
 
 <table>
-
-
-<tr><td>
-
-### 🤺 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yunfeidog/yunfeidog/assets/images/jobs.png" />
-
-<p>&emsp;&emsp;热爱编程、插件、开源</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
-</td></tr> 
 
 <tr><td>
 
@@ -43,36 +29,36 @@
 
 - [中科苏州智能计算技术研究院](http://iict.ac.cn/sy) &emsp; 📌 2024-06-13 —— 至今
 
-  - 工作岗位：后端开发工程师
-  - 工作内容：负责公司产品的后端开发工作，主要对公司的项目重构为微服务架构，以及后台管理系统的开发与维护工作
+    - 工作岗位：后端开发工程师
+    - 工作内容：负责区块链后端的开发工作。
 
 - [苏州东方智旅信息科技有限公司](http://www.leyoobao.com/) &emsp; 📌 2024-01-01 —— 2024-06-01
 
     - 工作岗位：全栈开发工程师
-    - 工作内容：负责公司产品的前后端开发工作，主要为微信小程序：风景在线、以及后台管理系统的开发与维护工作
-
+    - 工作内容：负责公司产品的前后端开发工作。
 
 </td></tr>
 
 <tr><td>
 
 ### 👩‍💻 Recent Coding
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C233%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 307.5 kB Used in GitHub's Storage 
- > 
+> 📦 307.5 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 19 Public Repositories
+>
+> 🔑 10 Private Repositories
+>
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                1241 commits        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
@@ -80,7 +66,8 @@
 🌃 Evening                2057 commits        ██████████░░░░░░░░░░░░░░░   38.75 % 
 🌙 Night                  202 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
 Monday                   561 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
@@ -92,8 +79,7 @@ Saturday                 815 commits         ████░░░░░░░�
 Sunday                   1065 commits        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
@@ -119,7 +105,7 @@ send-email               3 mins              ░░░░░░░░░░░�
 Mac                      4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in Java**
 
 ```text
 Java                     20 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
@@ -129,20 +115,12 @@ Python                   2 repos             █░░░░░░░░░░�
 Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/yunfeidog/yunfeidog/main/assets/bar_graph.png)
 
-
- Last Updated on 11/01/2025 01:00:24 UTC
+Last Updated on 11/01/2025 01:00:24 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
-
-
-
-
-<tr><td>
-
+<table>

@@ -16,5 +16,11 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # 是否显示项目名称，默认显示
           BLOCKS: "⬜🟨🟩"
-
-
+          SHOW_COMMIT: "false"
+          SHOW_LANGUAGE: "false"
+          SHOW_DAYS_OF_WEEK: "false"
+          SHOW_SHORT_INFO: "false"
+          SHOW_LOC_CHART: "false"
+          SHOW_LINES_OF_CODE: "false"
+          UPDATED_DATE_FORMAT: "YYYY-MM-DD HH:mm:ss"
+          DEBUG_LOGGING: "false"
